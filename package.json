@@ -1,0 +1,15 @@
+{
+  "private": true,
+  "engines": {
+    "node": "^16.3.0",
+    "pnpm": "^6.2.5"
+  },
+  "devDependencies": {
+    "vitepress": "0.14.1"
+  },
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "serve": "vitepress serve docs"
+  }
+}
