@@ -9,5 +9,5 @@ features:
     details: TypeScript support for Vue in VS Code
   - title: Preview
     details: A UI feedback tool built for rapid development
-footer: MIT Licensed | Copyright © 2019-present Evan You
+footer: MIT Licensed | Copyright © 2021-present Rahul Kadyan
 ---
