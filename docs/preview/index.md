@@ -1,8 +1,6 @@
-<img alt="VueDX Preview Logo" src="./assets/logo.png" style="display: block; width: 144px; margin: 48px 0" />
-
 # What is Preview?
 
-Preview is a UI feedback tool built on top Vite.
+Preview is a UI feedback tool built on top of Vite.
 
 ## Features
 
@@ -13,7 +11,7 @@ Preview is a UI feedback tool built on top Vite.
 ## Getting Started
 
 - Install [Preview](https://marketplace.visualstudio.com/items?itemName=znck.preview) extension.
-- Run `Preview: Show preview` command when editor is focused on a `.vue` file.
+- Run `Preview: Show preview` command when an editor is focused on a `.vue` file.
 
 ## Source
 

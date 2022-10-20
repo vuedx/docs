@@ -1,11 +1,13 @@
 {
   "private": true,
   "engines": {
-    "node": "^16.3.0",
-    "pnpm": "^6.2.5"
+    "node": "^18.11.0",
+    "pnpm": "^7.13.5"
   },
+  "packageManager": "pnpm@7.13.5",
   "devDependencies": {
-    "vitepress": "0.14.1"
+    "@algolia/client-search": "^4.9.1",
+    "vitepress": "^1.0.0-alpha.21"
   },
   "scripts": {
     "dev": "vitepress dev docs",
