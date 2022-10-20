@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a,a as r}from"./app.6138536a.js";const f=JSON.parse('{"title":"What is Preview?","description":"","frontmatter":{},"headers":[],"relativePath":"preview/index.md","lastUpdated":1666251751000}'),i={name:"preview/index.md"},n=r("",8),s=[n];function o(d,c,h,l,p,u){return a(),t("div",null,s)}const m=e(i,[["render",o]]);export{f as __pageData,m as default};
